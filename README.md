@@ -40,6 +40,6 @@
 ---
 
 ## 📫 Connect With Me  
-- [LinkedIn](https://www.linkedin.com)  
-- [Portfolio Website](#)  
-- 📧 Email: your-email@example.com  
+- [LinkedIn](https://www.linkedin.com/in/varshan-kumar-chadaram/)  
+- [Portfolio Website](https://varshankumar-05.github.io/Portfolio-/)  
+- 📧 Email: varshankumarchadaram@gmail.com  
