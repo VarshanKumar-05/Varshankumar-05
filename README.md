@@ -77,7 +77,7 @@ class VarshanKumar:
 # 🧩 LeetCode Dashboard (Auto Updates)
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/varshan2005?theme=dark&font=Fira%20Code&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/varshan2005?theme=dark&ext=heatmap&v=1" />
 </p>
 
 ---
