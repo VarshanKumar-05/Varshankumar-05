@@ -314,39 +314,7 @@ I enjoy designing AI-powered applications that combine modern software engineeri
 
 </table>
 
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=VarshanKumar-05&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarshanKumar-05&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=VarshanKumar-05&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=VarshanKumar-05&theme=algolia&row=1&column=7&margin-w=10"/>
-
-</p>
-
----
+ 
 
 # 📈 GitHub Contribution Activity
 
